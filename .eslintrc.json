@@ -26,6 +26,9 @@
         "prettier"
     ],
     "rules": {
+        "react/jsx-indent-props": "off",
+        "object-curly-newline": "off",
+        "indent": "off",
         "react/jsx-indent":"off",
         "prettier/prettier": "error",
         "no-use-before-define": "off",
